@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(164,210,199);
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: white;
+    background-color: #ff9b9b;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  p {
+    color:black;
+    
+  }
+  
+  li {
+    color: rgb(56, 56, 56);
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
